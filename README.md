@@ -3,7 +3,7 @@ SwAV Implementaion Code
 
 README https://github.com/facebookresearch/swav 
 # Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
-Dieser Code bietet eine PyTorch-Implementierung und vortrainierte Modelle für **SwAV** (**Sw**apping von **A**-Zuordnungen zwischen **V**-Ansichten), wie im Paper [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882) beschrieben .
+Dieser Code bietet eine PyTorch-Implementierung und vortrainierte Modelle für **SwAV** (**Sw**apping **A**ssignments between **V**iews), wie im Paper [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882) beschrieben .
 
 <div align="center">
   <img width="100%" alt="SwAV Illustration" src="https://dl.fbaipublicfiles.com/deepcluster/animated.gif">
