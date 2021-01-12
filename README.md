@@ -18,4 +18,4 @@ Unsere Methode kann mit großen und kleinen Stapeln trainiert werden und lässt 
 
 
 Der zugrundeliegende Programmcode wurde von den Autoren übernommen. SwAV ist sehr einfach zu implementieren und zu experimentieren. 
-Die Implementierung besteht aus einer Datei main_swav.ipynb, in der die Dataset-Definition multicropdataset.ipynb, die Modellarchitektur resnet50.ipynb und einigen verschiedene Trainings-Utilities utils.ipynb importiert werden.
+Die Implementierung besteht aus einer Datei [main_swav.ipynb](./main_swav.ipynb), in der die Dataset-Definition [multicropdataset.ipynb](./multicropdataset.ipynb), die Modellarchitektur [resnet50.ipynb](./resnet50.ipynb) und einigen verschiedene Trainings-Utilities [utils.ipynb](./utils.ipynb) importiert werden.
