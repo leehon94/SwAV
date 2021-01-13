@@ -19,5 +19,7 @@ Unsere Methode kann mit großen und kleinen Stapeln trainiert werden und lässt 
 # Programmcode
 Der zugrundeliegende Programmcode wurde von den Autoren übernommen. https://github.com/PyTorchLightning/pytorch-lightning-bolts.git
 
-Code ist über PyTorchLightning umgesetzt. Zum starten des Notebooks einfach [swav.ipynb](./swav.ipynb) üer Google Colab öffen.
+Der Code ist über PyTorchLightning umgesetzt und zeigt den Aufbau einer SwAV-Trainings Achritektur von Beginn an. Zunächst wird das ResNet50 aufgebaut, die Data Transformation Pipeline eingerichtet, das SwAV-Modell definiert bis zum Schluss der Trainer das Training durchführt. Zum Ausführen des Trainings einfach [swav.ipynb](./swav.ipynb) über Google Colab öffen.
+
+Der Datensatz auf dem das Modell trainiert wird ist das STL10 DataModule.
 
